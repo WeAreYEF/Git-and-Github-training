@@ -21,4 +21,16 @@ Open the folder, inside the folder is where you will get README FILE
 
 You will open the README File with Visual Studio Code automatically it will displace it
 
-For you to paste the links copied from above, you need to type git space clone space 
+For you to paste the links copied from above, you need to type git space clone space and paste the link
+
+From here you can type in your content, save it and group before you commit 
+
+After finishing you synchronise the changes automicatlly it will displace in your github
+
+I also learned about creating a branch and repeat the above stages to make changes
+
+I did learnt about Git hub pages creating a simple website linked to the Git hub which i can used publish my pages with very intresting themes that are already created in the in the git.
+
+Finally i learnt about Jekyll and its features thanks
+
+MY Name is Amanyara Allan
